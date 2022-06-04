@@ -1,7 +1,9 @@
 # html-Gallery
+
 # The goal is to Make a small html page: place 4 images in one line:
 
 Note that images are of different sizes.
+
 https://magic-kniga.ru/files/table_manager_files/56/17600/17600.jpg
 https://magic-kniga.ru/files/table_manager_files/56/17600/17600_002.jpg
 https://magic-kniga.ru/files/table_manager_files/56/24363/24363_002.jpg
@@ -30,7 +32,9 @@ When the screen is above 1000px;
 
 When the screen is above 680px;
 
-![Screenshot 2022-06-04 at 18 14 18](https://user-images.githubusercontent.com/90321105/172011849-4ad6dc4c-1a40-4f35-8ee6-28293fef6cb6.png)
+![Screenshot 2022-06-04 at 18 15 35](https://user-images.githubusercontent.com/90321105/172012359-9f617d47-c366-43a7-a5aa-73d22ddf2813.png)
+
+
 
 When the screen is above 680px but below 1000px;
 
