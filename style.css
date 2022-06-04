@@ -36,4 +36,22 @@ figure img
       }
 
 }
+@media only screen and (max-width: 690px)
+{
+   
+    figure
+    {
+        width:-webkit-fill-available;
+        padding: auto;
+    }
+    figure img
+    {
+       
+        width:-webkit-fill-available;
+        height: auto;
+        object-fit: cover;
+        margin: auto;
+    }
+
+}
 
