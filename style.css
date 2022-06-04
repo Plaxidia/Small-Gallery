@@ -19,3 +19,21 @@ figure img
     height: auto;
     object-fit: cover;
   }
+ @media only screen and (max-width: 1000px)
+{
+    figure
+    {
+        width: 30%;
+        padding: auto;
+    }
+      figure img
+      {
+       
+        width:-webkit-fill-available;
+        height: auto;
+        object-fit: cover;
+        margin: auto;
+      }
+
+}
+
