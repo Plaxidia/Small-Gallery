@@ -1,5 +1,9 @@
 # html-Gallery
 
+# Technologies used 
+- Html
+- css
+
 # The goal is to Make a small html page: place 4 images in one line:
 
 Note that images are of different sizes.
